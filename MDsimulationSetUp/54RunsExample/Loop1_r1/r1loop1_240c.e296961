@@ -1,0 +1,1887 @@
+Unloading compilers/intel/2018/update3
+  ERROR: compilers/intel/2018/update3 cannot be unloaded due to a prereq.
+    HINT: Might try "module unload default-modules/2018" first.
+
+Unloading mpi/intel/2018/update3/intel
+  ERROR: mpi/intel/2018/update3/intel cannot be unloaded due to a prereq.
+    HINT: Might try "module unload default-modules/2018" first.
+GERun: 
+GERun: Note: Lines like this one prefixed with "GERun:" are for debugging
+GERun:       purposes only and you do not need to report them to rc-support
+GERun:       unless your job fails for other reasons.
+GERun: 
+GERun: 
+GERun: Grid Engine parallel launcher abstraction layer version iv (public)
+GERun: Dr Owain Kenway, RCAS, RITS, ISD, UCL, 7th of February, 2018
+GERun: 
+GERun: For licensing terms, see LICENSE.txt
+GERun: 
+GERun: Using environment: intel
+GERun: Running on 240 slots:
+GERun:   240 MPI tasks
+GERun:     1 threads per task
+GERun: TMPDIR=/tmpdir/job/296961.undefined
+GERun: 
+GERun: Contents of machinefile:
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: 
+GERun: GErun command being run:
+GERun:  mpirun --rsh=ssh -machinefile /tmpdir/job/296961.undefined/machines.unique -np 240 -rr mdrun_mpi -deffnm md_0_1 -cpi -append
+                      :-) GROMACS - mdrun_mpi, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      mdrun_mpi, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/mdrun_mpi
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/277K_7_150M
+Command line:
+  mdrun_mpi -deffnm md_0_1 -cpi -append
+
+
+Back Off! I just backed up md_0_1.log to ./#md_0_1.log.1#
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Changing nstlist from 10 to 50, rlist from 1 to 1.111
+
+Using 240 MPI processes
+Using 1 OpenMP thread per MPI process
+
+
+Non-default thread affinity set probably by the OpenMP library,
+disabling internal thread affinity
+starting mdrun 'Protein in water'
+50000000 steps, 100000.0 ps.
+
+Writing final coordinates.
+
+
+Dynamic load balancing report:
+ DLB got disabled because it was unsuitable to use.
+ Average load imbalance: 14.8%.
+ The balanceable part of the MD step is 70%, load imbalance is computed from this.
+ Part of the total run time spent waiting due to load imbalance: 10.3%.
+ Average PME mesh/force load: 1.041
+ Part of the total run time spent waiting due to PP/PME imbalance: 2.4 %
+
+NOTE: 10.3 % of the available CPU time was lost due to load imbalance
+      in the domain decomposition.
+      You might want to use dynamic load balancing (option -dlb.)
+      You can also consider manually changing the decomposition (option -dd);
+      e.g. by using fewer domains along the box dimension in which there is
+      considerable inhomogeneity in the simulated system.
+
+               Core t (s)   Wall t (s)        (%)
+       Time: 11639744.440    48499.151    23999.9
+                         13h28:19
+                 (ns/day)    (hour/ns)
+Performance:      178.147        0.135
+
+GROMACS reminds you: "In this house, we OBEY the laws of thermodynamics!" (Homer Simpson)
+
+                     :-) GROMACS - gmx trjconv, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx trjconv, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/277K_7_150M
+Command line:
+  gmx trjconv -s md_0_1.tpr -f md_0_1.xtc -o md_0_1_fit-rot_trans.xtc -ur compact -fit rot+trans
+
+WARNING: Option for unitcell representation (-ur compact)
+         only has effect in combination with -pbc mol, res or atom.
+         Ingoring unitcell representation.
+
+Will write xtc: Compressed trajectory (portable xdr format): xtc
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Group     0 (         System) has 131253 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124655 elements
+Group    12 (          Water) has 124404 elements
+Group    13 (            SOL) has 124404 elements
+Group    14 (      non-Water) has  6849 elements
+Group    15 (            Ion) has   251 elements
+Group    16 (             NA) has   122 elements
+Group    17 (             CL) has   129 elements
+Group    18 ( Water_and_ions) has 124655 elements
+Select a group: Group     0 (         System) has 131253 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124655 elements
+Group    12 (          Water) has 124404 elements
+Group    13 (            SOL) has 124404 elements
+Group    14 (      non-Water) has  6849 elements
+Group    15 (            Ion) has   251 elements
+Group    16 (             NA) has   122 elements
+Group    17 (             CL) has   129 elements
+Group    18 ( Water_and_ions) has 124655 elements
+Select a group: Reading frame       0 time    0.000   
+Precision of md_0_1.xtc is 0.001 (nm)
+Using output precision of 0.001 (nm)
+ ->  frame      0 time    0.000      Reading frame       1 time  100.000    ->  frame      1 time  100.000      Reading frame       2 time  200.000    ->  frame      2 time  200.000      Reading frame       3 time  300.000    ->  frame      3 time  300.000      Reading frame       4 time  400.000    ->  frame      4 time  400.000      Reading frame       5 time  500.000    ->  frame      5 time  500.000      Reading frame       6 time  600.000    ->  frame      6 time  600.000      Reading frame       7 time  700.000    ->  frame      7 time  700.000      Reading frame       8 time  800.000    ->  frame      8 time  800.000      Reading frame       9 time  900.000    ->  frame      9 time  900.000      Reading frame      10 time 1000.000    ->  frame     10 time 1000.000      Reading frame      11 time 1100.000   Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000    ->  frame     20 time 2000.000      Reading frame      30 time 3000.000    ->  frame     30 time 3000.000      Reading frame      40 time 4000.000    ->  frame     40 time 4000.000      Reading frame      50 time 5000.000    ->  frame     50 time 5000.000      Reading frame      60 time 6000.000    ->  frame     60 time 6000.000      Reading frame      70 time 7000.000    ->  frame     70 time 7000.000      Reading frame      80 time 8000.000    ->  frame     80 time 8000.000      Reading frame      90 time 9000.000    ->  frame     90 time 9000.000      Reading frame     100 time 10000.000    ->  frame    100 time 10000.000      Reading frame     110 time 11000.000    ->  frame    110 time 11000.000      Reading frame     120 time 12000.000    ->  frame    120 time 12000.000      Reading frame     130 time 13000.000    ->  frame    130 time 13000.000      Reading frame     140 time 14000.000    ->  frame    140 time 14000.000      Reading frame     150 time 15000.000    ->  frame    150 time 15000.000      Reading frame     160 time 16000.000    ->  frame    160 time 16000.000      Reading frame     170 time 17000.000    ->  frame    170 time 17000.000      Reading frame     180 time 18000.000    ->  frame    180 time 18000.000      Reading frame     190 time 19000.000    ->  frame    190 time 19000.000      Reading frame     200 time 20000.000    ->  frame    200 time 20000.000       ->  frame    210 time 21000.000       ->  frame    220 time 22000.000       ->  frame    230 time 23000.000       ->  frame    240 time 24000.000       ->  frame    250 time 25000.000       ->  frame    260 time 26000.000       ->  frame    270 time 27000.000       ->  frame    280 time 28000.000       ->  frame    290 time 29000.000      Reading frame     300 time 30000.000    ->  frame    300 time 30000.000       ->  frame    310 time 31000.000       ->  frame    320 time 32000.000       ->  frame    330 time 33000.000       ->  frame    340 time 34000.000       ->  frame    350 time 35000.000       ->  frame    360 time 36000.000       ->  frame    370 time 37000.000       ->  frame    380 time 38000.000       ->  frame    390 time 39000.000      Reading frame     400 time 40000.000    ->  frame    400 time 40000.000       ->  frame    410 time 41000.000       ->  frame    420 time 42000.000       ->  frame    430 time 43000.000       ->  frame    440 time 44000.000       ->  frame    450 time 45000.000       ->  frame    460 time 46000.000       ->  frame    470 time 47000.000       ->  frame    480 time 48000.000       ->  frame    490 time 49000.000      Reading frame     500 time 50000.000    ->  frame    500 time 50000.000       ->  frame    510 time 51000.000       ->  frame    520 time 52000.000       ->  frame    530 time 53000.000       ->  frame    540 time 54000.000       ->  frame    550 time 55000.000       ->  frame    560 time 56000.000       ->  frame    570 time 57000.000       ->  frame    580 time 58000.000       ->  frame    590 time 59000.000      Reading frame     600 time 60000.000    ->  frame    600 time 60000.000       ->  frame    610 time 61000.000       ->  frame    620 time 62000.000       ->  frame    630 time 63000.000       ->  frame    640 time 64000.000       ->  frame    650 time 65000.000       ->  frame    660 time 66000.000       ->  frame    670 time 67000.000       ->  frame    680 time 68000.000       ->  frame    690 time 69000.000      Reading frame     700 time 70000.000    ->  frame    700 time 70000.000       ->  frame    710 time 71000.000       ->  frame    720 time 72000.000       ->  frame    730 time 73000.000       ->  frame    740 time 74000.000       ->  frame    750 time 75000.000       ->  frame    760 time 76000.000       ->  frame    770 time 77000.000       ->  frame    780 time 78000.000       ->  frame    790 time 79000.000      Reading frame     800 time 80000.000    ->  frame    800 time 80000.000       ->  frame    810 time 81000.000       ->  frame    820 time 82000.000       ->  frame    830 time 83000.000       ->  frame    840 time 84000.000       ->  frame    850 time 85000.000       ->  frame    860 time 86000.000       ->  frame    870 time 87000.000       ->  frame    880 time 88000.000       ->  frame    890 time 89000.000      Reading frame     900 time 90000.000    ->  frame    900 time 90000.000       ->  frame    910 time 91000.000       ->  frame    920 time 92000.000       ->  frame    930 time 93000.000       ->  frame    940 time 94000.000       ->  frame    950 time 95000.000       ->  frame    960 time 96000.000       ->  frame    970 time 97000.000       ->  frame    980 time 98000.000       ->  frame    990 time 99000.000      Reading frame    1000 time 100000.000    ->  frame   1000 time 100000.000      Last frame       1000 time 100000.000   
+
+
+GROMACS reminds you: "All I Ever Wanted Was Your Life" (Red Hot Chili Peppers)
+
+                      :-) GROMACS - gmx gyrate, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx gyrate, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/277K_7_150M
+Command line:
+  gmx gyrate -s md_0_1.tpr -f md_0_1_fit-rot_trans.xtc -o gyrate.xvg
+
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Group     0 (         System) has 131253 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124655 elements
+Group    12 (          Water) has 124404 elements
+Group    13 (            SOL) has 124404 elements
+Group    14 (      non-Water) has  6849 elements
+Group    15 (            Ion) has   251 elements
+Group    16 (             NA) has   122 elements
+Group    17 (             CL) has   129 elements
+Group    18 ( Water_and_ions) has 124655 elements
+Select a group: Reading frame       0 time    0.000   Reading frame       1 time  100.000   Reading frame       2 time  200.000   Reading frame       3 time  300.000   Reading frame       4 time  400.000   Reading frame       5 time  500.000   Reading frame       6 time  600.000   Reading frame       7 time  700.000   Reading frame       8 time  800.000   Reading frame       9 time  900.000   Reading frame      10 time 1000.000   Reading frame      11 time 1100.000   Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000   Reading frame      30 time 3000.000   Reading frame      40 time 4000.000   Reading frame      50 time 5000.000   Reading frame      60 time 6000.000   Reading frame      70 time 7000.000   Reading frame      80 time 8000.000   Reading frame      90 time 9000.000   Reading frame     100 time 10000.000   Reading frame     110 time 11000.000   Reading frame     120 time 12000.000   Reading frame     130 time 13000.000   Reading frame     140 time 14000.000   Reading frame     150 time 15000.000   Reading frame     160 time 16000.000   Reading frame     170 time 17000.000   Reading frame     180 time 18000.000   Reading frame     190 time 19000.000   Reading frame     200 time 20000.000   Reading frame     300 time 30000.000   Reading frame     400 time 40000.000   Reading frame     500 time 50000.000   Reading frame     600 time 60000.000   Reading frame     700 time 70000.000   Reading frame     800 time 80000.000   Reading frame     900 time 90000.000   Reading frame    1000 time 100000.000   Last frame       1000 time 100000.000   
+
+GROMACS reminds you: "I am at two with nature." (Woody Allen)
+
+                       :-) GROMACS - gmx rms, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx rms, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/277K_7_150M
+Command line:
+  gmx rms -s md_0_1.tpr -f md_0_1_fit-rot_trans.xtc -o rmsd.xvg -tu ns
+
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Select group for least squares fit
+Group     0 (         System) has 131253 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124655 elements
+Group    12 (          Water) has 124404 elements
+Group    13 (            SOL) has 124404 elements
+Group    14 (      non-Water) has  6849 elements
+Group    15 (            Ion) has   251 elements
+Group    16 (             NA) has   122 elements
+Group    17 (             CL) has   129 elements
+Group    18 ( Water_and_ions) has 124655 elements
+Select a group: Select group for RMSD calculation
+Group     0 (         System) has 131253 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124655 elements
+Group    12 (          Water) has 124404 elements
+Group    13 (            SOL) has 124404 elements
+Group    14 (      non-Water) has  6849 elements
+Group    15 (            Ion) has   251 elements
+Group    16 (             NA) has   122 elements
+Group    17 (             CL) has   129 elements
+Group    18 ( Water_and_ions) has 124655 elements
+Select a group: Reading frame       0 time    0.000   
+WARNING: topology has 131253 atoms, whereas trajectory has 6598
+Reading frame       1 time    0.100   Reading frame       2 time    0.200   Reading frame       3 time    0.300   Reading frame       4 time    0.400   Reading frame       5 time    0.500   Reading frame       6 time    0.600   Reading frame       7 time    0.700   Reading frame       8 time    0.800   Reading frame       9 time    0.900   Reading frame      10 time    1.000   Reading frame      11 time    1.100   Reading frame      12 time    1.200   Reading frame      13 time    1.300   Reading frame      14 time    1.400   Reading frame      15 time    1.500   Reading frame      16 time    1.600   Reading frame      17 time    1.700   Reading frame      18 time    1.800   Reading frame      19 time    1.900   Reading frame      20 time    2.000   Reading frame      30 time    3.000   Reading frame      40 time    4.000   Reading frame      50 time    5.000   Reading frame      60 time    6.000   Reading frame      70 time    7.000   Reading frame      80 time    8.000   Reading frame      90 time    9.000   Reading frame     100 time   10.000   Reading frame     110 time   11.000   Reading frame     120 time   12.000   Reading frame     130 time   13.000   Reading frame     140 time   14.000   Reading frame     150 time   15.000   Reading frame     160 time   16.000   Reading frame     170 time   17.000   Reading frame     180 time   18.000   Reading frame     190 time   19.000   Reading frame     200 time   20.000   Reading frame     300 time   30.000   Reading frame     400 time   40.000   Reading frame     500 time   50.000   Reading frame     600 time   60.000   Reading frame     700 time   70.000   Reading frame     800 time   80.000   Reading frame     900 time   90.000   Reading frame    1000 time  100.000   Last frame       1000 time  100.000   
+
+GROMACS reminds you: "The Feeling of Power was Intoxicating, Magic" (Frida Hyvonen)
+
+                       :-) GROMACS - gmx rmsf, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx rmsf, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/277K_7_150M
+Command line:
+  gmx rmsf -s md_0_1.tpr -f md_0_1_fit-rot_trans.xtc -o rmsf.xvg -oq bfac.pdb -res
+
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Select group(s) for root mean square calculation
+Group     0 (         System) has 131253 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124655 elements
+Group    12 (          Water) has 124404 elements
+Group    13 (            SOL) has 124404 elements
+Group    14 (      non-Water) has  6849 elements
+Group    15 (            Ion) has   251 elements
+Group    16 (             NA) has   122 elements
+Group    17 (             CL) has   129 elements
+Group    18 ( Water_and_ions) has 124655 elements
+Select a group: Reading frame       0 time    0.000   Reading frame       1 time  100.000   Reading frame       2 time  200.000   Reading frame       3 time  300.000   Reading frame       4 time  400.000   Reading frame       5 time  500.000   Reading frame       6 time  600.000   Reading frame       7 time  700.000   Reading frame       8 time  800.000   Reading frame       9 time  900.000   Reading frame      10 time 1000.000   Reading frame      11 time 1100.000   Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000   Reading frame      30 time 3000.000   Reading frame      40 time 4000.000   Reading frame      50 time 5000.000   Reading frame      60 time 6000.000   Reading frame      70 time 7000.000   Reading frame      80 time 8000.000   Reading frame      90 time 9000.000   Reading frame     100 time 10000.000   Reading frame     110 time 11000.000   Reading frame     120 time 12000.000   Reading frame     130 time 13000.000   Reading frame     140 time 14000.000   Reading frame     150 time 15000.000   Reading frame     160 time 16000.000   Reading frame     170 time 17000.000   Reading frame     180 time 18000.000   Reading frame     190 time 19000.000   Reading frame     200 time 20000.000   Reading frame     300 time 30000.000   Reading frame     400 time 40000.000   Reading frame     500 time 50000.000   Reading frame     600 time 60000.000   Reading frame     700 time 70000.000   Reading frame     800 time 80000.000   Reading frame     900 time 90000.000   Reading frame    1000 time 100000.000   Last frame       1000 time 100000.000   
+
+GROMACS reminds you: "We mathematicians are all a bit crazy." (Lev Landau)
+
+GERun: 
+GERun: Note: Lines like this one prefixed with "GERun:" are for debugging
+GERun:       purposes only and you do not need to report them to rc-support
+GERun:       unless your job fails for other reasons.
+GERun: 
+GERun: 
+GERun: Grid Engine parallel launcher abstraction layer version iv (public)
+GERun: Dr Owain Kenway, RCAS, RITS, ISD, UCL, 7th of February, 2018
+GERun: 
+GERun: For licensing terms, see LICENSE.txt
+GERun: 
+GERun: Using environment: intel
+GERun: Running on 240 slots:
+GERun:   240 MPI tasks
+GERun:     1 threads per task
+GERun: TMPDIR=/tmpdir/job/296961.undefined
+GERun: 
+GERun: Contents of machinefile:
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: 
+GERun: GErun command being run:
+GERun:  mpirun --rsh=ssh -machinefile /tmpdir/job/296961.undefined/machines.unique -np 240 -rr mdrun_mpi -deffnm md_0_1 -cpi -append
+                      :-) GROMACS - mdrun_mpi, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      mdrun_mpi, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/mdrun_mpi
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/277K_7_250M
+Command line:
+  mdrun_mpi -deffnm md_0_1 -cpi -append
+
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Changing nstlist from 10 to 50, rlist from 1 to 1.111
+
+Using 240 MPI processes
+Using 1 OpenMP thread per MPI process
+
+
+Non-default thread affinity set probably by the OpenMP library,
+disabling internal thread affinity
+starting mdrun 'Protein in water'
+50000000 steps, 100000.0 ps.
+
+Writing final coordinates.
+
+
+Dynamic load balancing report:
+ DLB got disabled because it was unsuitable to use.
+ Average load imbalance: 11.9%.
+ The balanceable part of the MD step is 72%, load imbalance is computed from this.
+ Part of the total run time spent waiting due to load imbalance: 8.5%.
+ Average PME mesh/force load: 1.057
+ Part of the total run time spent waiting due to PP/PME imbalance: 3.3 %
+
+NOTE: 8.5 % of the available CPU time was lost due to load imbalance
+      in the domain decomposition.
+      You might want to use dynamic load balancing (option -dlb.)
+      You can also consider manually changing the decomposition (option -dd);
+      e.g. by using fewer domains along the box dimension in which there is
+      considerable inhomogeneity in the simulated system.
+
+               Core t (s)   Wall t (s)        (%)
+       Time: 11769726.382    49040.643    23999.9
+                         13h37:20
+                 (ns/day)    (hour/ns)
+Performance:      176.180        0.136
+
+GROMACS reminds you: "In practice, throwing traditional norms and values overboard results not in perfect freedom and relationships based on reason, but in chaos and fear" (Paul Verhaeghe)
+
+                     :-) GROMACS - gmx trjconv, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx trjconv, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/277K_7_250M
+Command line:
+  gmx trjconv -s md_0_1.tpr -f md_0_1.xtc -o md_0_1_fit-rot_trans.xtc -ur compact -fit rot+trans
+
+WARNING: Option for unitcell representation (-ur compact)
+         only has effect in combination with -pbc mol, res or atom.
+         Ingoring unitcell representation.
+
+Will write xtc: Compressed trajectory (portable xdr format): xtc
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Group     0 (         System) has 130929 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124331 elements
+Group    12 (          Water) has 123918 elements
+Group    13 (            SOL) has 123918 elements
+Group    14 (      non-Water) has  7011 elements
+Group    15 (            Ion) has   413 elements
+Group    16 (             NA) has   203 elements
+Group    17 (             CL) has   210 elements
+Group    18 ( Water_and_ions) has 124331 elements
+Select a group: Group     0 (         System) has 130929 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124331 elements
+Group    12 (          Water) has 123918 elements
+Group    13 (            SOL) has 123918 elements
+Group    14 (      non-Water) has  7011 elements
+Group    15 (            Ion) has   413 elements
+Group    16 (             NA) has   203 elements
+Group    17 (             CL) has   210 elements
+Group    18 ( Water_and_ions) has 124331 elements
+Select a group: Reading frame       0 time    0.000   
+Precision of md_0_1.xtc is 0.001 (nm)
+Using output precision of 0.001 (nm)
+ ->  frame      0 time    0.000      Reading frame       1 time  100.000    ->  frame      1 time  100.000      Reading frame       2 time  200.000    ->  frame      2 time  200.000      Reading frame       3 time  300.000    ->  frame      3 time  300.000      Reading frame       4 time  400.000    ->  frame      4 time  400.000      Reading frame       5 time  500.000    ->  frame      5 time  500.000      Reading frame       6 time  600.000    ->  frame      6 time  600.000      Reading frame       7 time  700.000    ->  frame      7 time  700.000      Reading frame       8 time  800.000    ->  frame      8 time  800.000      Reading frame       9 time  900.000    ->  frame      9 time  900.000      Reading frame      10 time 1000.000    ->  frame     10 time 1000.000      Reading frame      11 time 1100.000   Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000    ->  frame     20 time 2000.000      Reading frame      30 time 3000.000    ->  frame     30 time 3000.000      Reading frame      40 time 4000.000    ->  frame     40 time 4000.000      Reading frame      50 time 5000.000    ->  frame     50 time 5000.000      Reading frame      60 time 6000.000    ->  frame     60 time 6000.000      Reading frame      70 time 7000.000    ->  frame     70 time 7000.000      Reading frame      80 time 8000.000    ->  frame     80 time 8000.000      Reading frame      90 time 9000.000    ->  frame     90 time 9000.000      Reading frame     100 time 10000.000    ->  frame    100 time 10000.000      Reading frame     110 time 11000.000    ->  frame    110 time 11000.000      Reading frame     120 time 12000.000    ->  frame    120 time 12000.000      Reading frame     130 time 13000.000    ->  frame    130 time 13000.000      Reading frame     140 time 14000.000    ->  frame    140 time 14000.000      Reading frame     150 time 15000.000    ->  frame    150 time 15000.000      Reading frame     160 time 16000.000    ->  frame    160 time 16000.000      Reading frame     170 time 17000.000    ->  frame    170 time 17000.000      Reading frame     180 time 18000.000    ->  frame    180 time 18000.000      Reading frame     190 time 19000.000    ->  frame    190 time 19000.000      Reading frame     200 time 20000.000    ->  frame    200 time 20000.000       ->  frame    210 time 21000.000       ->  frame    220 time 22000.000       ->  frame    230 time 23000.000       ->  frame    240 time 24000.000       ->  frame    250 time 25000.000       ->  frame    260 time 26000.000       ->  frame    270 time 27000.000       ->  frame    280 time 28000.000       ->  frame    290 time 29000.000      Reading frame     300 time 30000.000    ->  frame    300 time 30000.000       ->  frame    310 time 31000.000       ->  frame    320 time 32000.000       ->  frame    330 time 33000.000       ->  frame    340 time 34000.000       ->  frame    350 time 35000.000       ->  frame    360 time 36000.000       ->  frame    370 time 37000.000       ->  frame    380 time 38000.000       ->  frame    390 time 39000.000      Reading frame     400 time 40000.000    ->  frame    400 time 40000.000       ->  frame    410 time 41000.000       ->  frame    420 time 42000.000       ->  frame    430 time 43000.000       ->  frame    440 time 44000.000       ->  frame    450 time 45000.000       ->  frame    460 time 46000.000       ->  frame    470 time 47000.000       ->  frame    480 time 48000.000       ->  frame    490 time 49000.000      Reading frame     500 time 50000.000    ->  frame    500 time 50000.000       ->  frame    510 time 51000.000       ->  frame    520 time 52000.000       ->  frame    530 time 53000.000       ->  frame    540 time 54000.000       ->  frame    550 time 55000.000       ->  frame    560 time 56000.000       ->  frame    570 time 57000.000       ->  frame    580 time 58000.000       ->  frame    590 time 59000.000      Reading frame     600 time 60000.000    ->  frame    600 time 60000.000       ->  frame    610 time 61000.000       ->  frame    620 time 62000.000       ->  frame    630 time 63000.000       ->  frame    640 time 64000.000       ->  frame    650 time 65000.000       ->  frame    660 time 66000.000       ->  frame    670 time 67000.000       ->  frame    680 time 68000.000       ->  frame    690 time 69000.000      Reading frame     700 time 70000.000    ->  frame    700 time 70000.000       ->  frame    710 time 71000.000       ->  frame    720 time 72000.000       ->  frame    730 time 73000.000       ->  frame    740 time 74000.000       ->  frame    750 time 75000.000       ->  frame    760 time 76000.000       ->  frame    770 time 77000.000       ->  frame    780 time 78000.000       ->  frame    790 time 79000.000      Reading frame     800 time 80000.000    ->  frame    800 time 80000.000       ->  frame    810 time 81000.000       ->  frame    820 time 82000.000       ->  frame    830 time 83000.000       ->  frame    840 time 84000.000       ->  frame    850 time 85000.000       ->  frame    860 time 86000.000       ->  frame    870 time 87000.000       ->  frame    880 time 88000.000       ->  frame    890 time 89000.000      Reading frame     900 time 90000.000    ->  frame    900 time 90000.000       ->  frame    910 time 91000.000       ->  frame    920 time 92000.000       ->  frame    930 time 93000.000       ->  frame    940 time 94000.000       ->  frame    950 time 95000.000       ->  frame    960 time 96000.000       ->  frame    970 time 97000.000       ->  frame    980 time 98000.000       ->  frame    990 time 99000.000      Reading frame    1000 time 100000.000    ->  frame   1000 time 100000.000      Last frame       1000 time 100000.000   
+
+
+GROMACS reminds you: "Take Your Medications and Preparations and Ram It Up Your Snout" (F. Zappa)
+
+                      :-) GROMACS - gmx gyrate, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx gyrate, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/277K_7_250M
+Command line:
+  gmx gyrate -s md_0_1.tpr -f md_0_1_fit-rot_trans.xtc -o gyrate.xvg
+
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Group     0 (         System) has 130929 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124331 elements
+Group    12 (          Water) has 123918 elements
+Group    13 (            SOL) has 123918 elements
+Group    14 (      non-Water) has  7011 elements
+Group    15 (            Ion) has   413 elements
+Group    16 (             NA) has   203 elements
+Group    17 (             CL) has   210 elements
+Group    18 ( Water_and_ions) has 124331 elements
+Select a group: Reading frame       0 time    0.000   Reading frame       1 time  100.000   Reading frame       2 time  200.000   Reading frame       3 time  300.000   Reading frame       4 time  400.000   Reading frame       5 time  500.000   Reading frame       6 time  600.000   Reading frame       7 time  700.000   Reading frame       8 time  800.000   Reading frame       9 time  900.000   Reading frame      10 time 1000.000   Reading frame      11 time 1100.000   Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000   Reading frame      30 time 3000.000   Reading frame      40 time 4000.000   Reading frame      50 time 5000.000   Reading frame      60 time 6000.000   Reading frame      70 time 7000.000   Reading frame      80 time 8000.000   Reading frame      90 time 9000.000   Reading frame     100 time 10000.000   Reading frame     110 time 11000.000   Reading frame     120 time 12000.000   Reading frame     130 time 13000.000   Reading frame     140 time 14000.000   Reading frame     150 time 15000.000   Reading frame     160 time 16000.000   Reading frame     170 time 17000.000   Reading frame     180 time 18000.000   Reading frame     190 time 19000.000   Reading frame     200 time 20000.000   Reading frame     300 time 30000.000   Reading frame     400 time 40000.000   Reading frame     500 time 50000.000   Reading frame     600 time 60000.000   Reading frame     700 time 70000.000   Reading frame     800 time 80000.000   Reading frame     900 time 90000.000   Reading frame    1000 time 100000.000   Last frame       1000 time 100000.000   
+
+GROMACS reminds you: "I know poetry is not dead, nor genius lost; nor has Mammon gained power over either, to bind or slay; they will both assert their existence, their presence, their liberty and strength again one day." (Jane Eyre in Jane Eyre by Charlotte Bronte)
+
+                       :-) GROMACS - gmx rms, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx rms, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/277K_7_250M
+Command line:
+  gmx rms -s md_0_1.tpr -f md_0_1_fit-rot_trans.xtc -o rmsd.xvg -tu ns
+
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Select group for least squares fit
+Group     0 (         System) has 130929 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124331 elements
+Group    12 (          Water) has 123918 elements
+Group    13 (            SOL) has 123918 elements
+Group    14 (      non-Water) has  7011 elements
+Group    15 (            Ion) has   413 elements
+Group    16 (             NA) has   203 elements
+Group    17 (             CL) has   210 elements
+Group    18 ( Water_and_ions) has 124331 elements
+Select a group: Select group for RMSD calculation
+Group     0 (         System) has 130929 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124331 elements
+Group    12 (          Water) has 123918 elements
+Group    13 (            SOL) has 123918 elements
+Group    14 (      non-Water) has  7011 elements
+Group    15 (            Ion) has   413 elements
+Group    16 (             NA) has   203 elements
+Group    17 (             CL) has   210 elements
+Group    18 ( Water_and_ions) has 124331 elements
+Select a group: Reading frame       0 time    0.000   
+WARNING: topology has 130929 atoms, whereas trajectory has 6598
+Reading frame       1 time    0.100   Reading frame       2 time    0.200   Reading frame       3 time    0.300   Reading frame       4 time    0.400   Reading frame       5 time    0.500   Reading frame       6 time    0.600   Reading frame       7 time    0.700   Reading frame       8 time    0.800   Reading frame       9 time    0.900   Reading frame      10 time    1.000   Reading frame      11 time    1.100   Reading frame      12 time    1.200   Reading frame      13 time    1.300   Reading frame      14 time    1.400   Reading frame      15 time    1.500   Reading frame      16 time    1.600   Reading frame      17 time    1.700   Reading frame      18 time    1.800   Reading frame      19 time    1.900   Reading frame      20 time    2.000   Reading frame      30 time    3.000   Reading frame      40 time    4.000   Reading frame      50 time    5.000   Reading frame      60 time    6.000   Reading frame      70 time    7.000   Reading frame      80 time    8.000   Reading frame      90 time    9.000   Reading frame     100 time   10.000   Reading frame     110 time   11.000   Reading frame     120 time   12.000   Reading frame     130 time   13.000   Reading frame     140 time   14.000   Reading frame     150 time   15.000   Reading frame     160 time   16.000   Reading frame     170 time   17.000   Reading frame     180 time   18.000   Reading frame     190 time   19.000   Reading frame     200 time   20.000   Reading frame     300 time   30.000   Reading frame     400 time   40.000   Reading frame     500 time   50.000   Reading frame     600 time   60.000   Reading frame     700 time   70.000   Reading frame     800 time   80.000   Reading frame     900 time   90.000   Reading frame    1000 time  100.000   Last frame       1000 time  100.000   
+
+GROMACS reminds you: "Sacrifices must be made" (Otto Lilienthal, dying after having crashed with his glider in 1896)
+
+                       :-) GROMACS - gmx rmsf, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx rmsf, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/277K_7_250M
+Command line:
+  gmx rmsf -s md_0_1.tpr -f md_0_1_fit-rot_trans.xtc -o rmsf.xvg -oq bfac.pdb -res
+
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Select group(s) for root mean square calculation
+Group     0 (         System) has 130929 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124331 elements
+Group    12 (          Water) has 123918 elements
+Group    13 (            SOL) has 123918 elements
+Group    14 (      non-Water) has  7011 elements
+Group    15 (            Ion) has   413 elements
+Group    16 (             NA) has   203 elements
+Group    17 (             CL) has   210 elements
+Group    18 ( Water_and_ions) has 124331 elements
+Select a group: Reading frame       0 time    0.000   Reading frame       1 time  100.000   Reading frame       2 time  200.000   Reading frame       3 time  300.000   Reading frame       4 time  400.000   Reading frame       5 time  500.000   Reading frame       6 time  600.000   Reading frame       7 time  700.000   Reading frame       8 time  800.000   Reading frame       9 time  900.000   Reading frame      10 time 1000.000   Reading frame      11 time 1100.000   Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000   Reading frame      30 time 3000.000   Reading frame      40 time 4000.000   Reading frame      50 time 5000.000   Reading frame      60 time 6000.000   Reading frame      70 time 7000.000   Reading frame      80 time 8000.000   Reading frame      90 time 9000.000   Reading frame     100 time 10000.000   Reading frame     110 time 11000.000   Reading frame     120 time 12000.000   Reading frame     130 time 13000.000   Reading frame     140 time 14000.000   Reading frame     150 time 15000.000   Reading frame     160 time 16000.000   Reading frame     170 time 17000.000   Reading frame     180 time 18000.000   Reading frame     190 time 19000.000   Reading frame     200 time 20000.000   Reading frame     300 time 30000.000   Reading frame     400 time 40000.000   Reading frame     500 time 50000.000   Reading frame     600 time 60000.000   Reading frame     700 time 70000.000   Reading frame     800 time 80000.000   Reading frame     900 time 90000.000   Reading frame    1000 time 100000.000   Last frame       1000 time 100000.000   
+
+GROMACS reminds you: "People are DNA's way of making more DNA." (Edward O. Wilson)
+
+GERun: 
+GERun: Note: Lines like this one prefixed with "GERun:" are for debugging
+GERun:       purposes only and you do not need to report them to rc-support
+GERun:       unless your job fails for other reasons.
+GERun: 
+GERun: 
+GERun: Grid Engine parallel launcher abstraction layer version iv (public)
+GERun: Dr Owain Kenway, RCAS, RITS, ISD, UCL, 7th of February, 2018
+GERun: 
+GERun: For licensing terms, see LICENSE.txt
+GERun: 
+GERun: Using environment: intel
+GERun: Running on 240 slots:
+GERun:   240 MPI tasks
+GERun:     1 threads per task
+GERun: TMPDIR=/tmpdir/job/296961.undefined
+GERun: 
+GERun: Contents of machinefile:
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-125
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-093
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-071
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-112
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-108
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: node-c11a-109
+GERun: 
+GERun: GErun command being run:
+GERun:  mpirun --rsh=ssh -machinefile /tmpdir/job/296961.undefined/machines.unique -np 240 -rr mdrun_mpi -deffnm md_0_1 -cpi -append
+                      :-) GROMACS - mdrun_mpi, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      mdrun_mpi, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/mdrun_mpi
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/296K_7_50M
+Command line:
+  mdrun_mpi -deffnm md_0_1 -cpi -append
+
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Changing nstlist from 10 to 50, rlist from 1 to 1.116
+
+Using 240 MPI processes
+Using 1 OpenMP thread per MPI process
+
+
+Non-default thread affinity set probably by the OpenMP library,
+disabling internal thread affinity
+starting mdrun 'Protein in water'
+50000000 steps, 100000.0 ps.
+
+Writing final coordinates.
+
+
+Dynamic load balancing report:
+ DLB got disabled because it was unsuitable to use.
+ Average load imbalance: 16.0%.
+ The balanceable part of the MD step is 71%, load imbalance is computed from this.
+ Part of the total run time spent waiting due to load imbalance: 11.3%.
+ Average PME mesh/force load: 1.017
+ Part of the total run time spent waiting due to PP/PME imbalance: 1.0 %
+
+NOTE: 11.3 % of the available CPU time was lost due to load imbalance
+      in the domain decomposition.
+      You might want to use dynamic load balancing (option -dlb.)
+      You can also consider manually changing the decomposition (option -dd);
+      e.g. by using fewer domains along the box dimension in which there is
+      considerable inhomogeneity in the simulated system.
+
+               Core t (s)   Wall t (s)        (%)
+       Time: 11577162.325    48238.216    24000.0
+                         13h23:58
+                 (ns/day)    (hour/ns)
+Performance:      179.111        0.134
+
+GROMACS reminds you: "The future still looks good, and you've got time to rectify all the things that you should" (G. Harrison)
+
+                     :-) GROMACS - gmx trjconv, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx trjconv, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/296K_7_50M
+Command line:
+  gmx trjconv -s md_0_1.tpr -f md_0_1.xtc -o md_0_1_fit-rot_trans.xtc -ur compact -fit rot+trans
+
+WARNING: Option for unitcell representation (-ur compact)
+         only has effect in combination with -pbc mol, res or atom.
+         Ingoring unitcell representation.
+
+Will write xtc: Compressed trajectory (portable xdr format): xtc
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Group     0 (         System) has 131577 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124979 elements
+Group    12 (          Water) has 124890 elements
+Group    13 (            SOL) has 124890 elements
+Group    14 (      non-Water) has  6687 elements
+Group    15 (            Ion) has    89 elements
+Group    16 (             NA) has    41 elements
+Group    17 (             CL) has    48 elements
+Group    18 ( Water_and_ions) has 124979 elements
+Select a group: Group     0 (         System) has 131577 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124979 elements
+Group    12 (          Water) has 124890 elements
+Group    13 (            SOL) has 124890 elements
+Group    14 (      non-Water) has  6687 elements
+Group    15 (            Ion) has    89 elements
+Group    16 (             NA) has    41 elements
+Group    17 (             CL) has    48 elements
+Group    18 ( Water_and_ions) has 124979 elements
+Select a group: Reading frame       0 time    0.000   
+Precision of md_0_1.xtc is 0.001 (nm)
+Using output precision of 0.001 (nm)
+ ->  frame      0 time    0.000      Reading frame       1 time  100.000    ->  frame      1 time  100.000      Reading frame       2 time  200.000    ->  frame      2 time  200.000      Reading frame       3 time  300.000    ->  frame      3 time  300.000      Reading frame       4 time  400.000    ->  frame      4 time  400.000      Reading frame       5 time  500.000    ->  frame      5 time  500.000      Reading frame       6 time  600.000    ->  frame      6 time  600.000      Reading frame       7 time  700.000    ->  frame      7 time  700.000      Reading frame       8 time  800.000    ->  frame      8 time  800.000      Reading frame       9 time  900.000    ->  frame      9 time  900.000      Reading frame      10 time 1000.000    ->  frame     10 time 1000.000      Reading frame      11 time 1100.000   Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000    ->  frame     20 time 2000.000      Reading frame      30 time 3000.000    ->  frame     30 time 3000.000      Reading frame      40 time 4000.000    ->  frame     40 time 4000.000      Reading frame      50 time 5000.000    ->  frame     50 time 5000.000      Reading frame      60 time 6000.000    ->  frame     60 time 6000.000      Reading frame      70 time 7000.000    ->  frame     70 time 7000.000      Reading frame      80 time 8000.000    ->  frame     80 time 8000.000      Reading frame      90 time 9000.000    ->  frame     90 time 9000.000      Reading frame     100 time 10000.000    ->  frame    100 time 10000.000      Reading frame     110 time 11000.000    ->  frame    110 time 11000.000      Reading frame     120 time 12000.000    ->  frame    120 time 12000.000      Reading frame     130 time 13000.000    ->  frame    130 time 13000.000      Reading frame     140 time 14000.000    ->  frame    140 time 14000.000      Reading frame     150 time 15000.000    ->  frame    150 time 15000.000      Reading frame     160 time 16000.000    ->  frame    160 time 16000.000      Reading frame     170 time 17000.000    ->  frame    170 time 17000.000      Reading frame     180 time 18000.000    ->  frame    180 time 18000.000      Reading frame     190 time 19000.000    ->  frame    190 time 19000.000      Reading frame     200 time 20000.000    ->  frame    200 time 20000.000       ->  frame    210 time 21000.000       ->  frame    220 time 22000.000       ->  frame    230 time 23000.000       ->  frame    240 time 24000.000       ->  frame    250 time 25000.000       ->  frame    260 time 26000.000       ->  frame    270 time 27000.000       ->  frame    280 time 28000.000       ->  frame    290 time 29000.000      Reading frame     300 time 30000.000    ->  frame    300 time 30000.000       ->  frame    310 time 31000.000       ->  frame    320 time 32000.000       ->  frame    330 time 33000.000       ->  frame    340 time 34000.000       ->  frame    350 time 35000.000       ->  frame    360 time 36000.000       ->  frame    370 time 37000.000       ->  frame    380 time 38000.000       ->  frame    390 time 39000.000      Reading frame     400 time 40000.000    ->  frame    400 time 40000.000       ->  frame    410 time 41000.000       ->  frame    420 time 42000.000       ->  frame    430 time 43000.000       ->  frame    440 time 44000.000       ->  frame    450 time 45000.000       ->  frame    460 time 46000.000       ->  frame    470 time 47000.000       ->  frame    480 time 48000.000       ->  frame    490 time 49000.000      Reading frame     500 time 50000.000    ->  frame    500 time 50000.000       ->  frame    510 time 51000.000       ->  frame    520 time 52000.000       ->  frame    530 time 53000.000       ->  frame    540 time 54000.000       ->  frame    550 time 55000.000       ->  frame    560 time 56000.000       ->  frame    570 time 57000.000       ->  frame    580 time 58000.000       ->  frame    590 time 59000.000      Reading frame     600 time 60000.000    ->  frame    600 time 60000.000       ->  frame    610 time 61000.000       ->  frame    620 time 62000.000       ->  frame    630 time 63000.000       ->  frame    640 time 64000.000       ->  frame    650 time 65000.000       ->  frame    660 time 66000.000       ->  frame    670 time 67000.000       ->  frame    680 time 68000.000       ->  frame    690 time 69000.000      Reading frame     700 time 70000.000    ->  frame    700 time 70000.000       ->  frame    710 time 71000.000       ->  frame    720 time 72000.000       ->  frame    730 time 73000.000       ->  frame    740 time 74000.000       ->  frame    750 time 75000.000       ->  frame    760 time 76000.000       ->  frame    770 time 77000.000       ->  frame    780 time 78000.000       ->  frame    790 time 79000.000      Reading frame     800 time 80000.000    ->  frame    800 time 80000.000       ->  frame    810 time 81000.000       ->  frame    820 time 82000.000       ->  frame    830 time 83000.000       ->  frame    840 time 84000.000       ->  frame    850 time 85000.000       ->  frame    860 time 86000.000       ->  frame    870 time 87000.000       ->  frame    880 time 88000.000       ->  frame    890 time 89000.000      Reading frame     900 time 90000.000    ->  frame    900 time 90000.000       ->  frame    910 time 91000.000       ->  frame    920 time 92000.000       ->  frame    930 time 93000.000       ->  frame    940 time 94000.000       ->  frame    950 time 95000.000       ->  frame    960 time 96000.000       ->  frame    970 time 97000.000       ->  frame    980 time 98000.000       ->  frame    990 time 99000.000      Reading frame    1000 time 100000.000    ->  frame   1000 time 100000.000      Last frame       1000 time 100000.000   
+
+
+GROMACS reminds you: "Would You Like to Be the Monster Tonight ?" (Captain Beefheart)
+
+                      :-) GROMACS - gmx gyrate, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx gyrate, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/296K_7_50M
+Command line:
+  gmx gyrate -s md_0_1.tpr -f md_0_1_fit-rot_trans.xtc -o gyrate.xvg
+
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Group     0 (         System) has 131577 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124979 elements
+Group    12 (          Water) has 124890 elements
+Group    13 (            SOL) has 124890 elements
+Group    14 (      non-Water) has  6687 elements
+Group    15 (            Ion) has    89 elements
+Group    16 (             NA) has    41 elements
+Group    17 (             CL) has    48 elements
+Group    18 ( Water_and_ions) has 124979 elements
+Select a group: Reading frame       0 time    0.000   Reading frame       1 time  100.000   Reading frame       2 time  200.000   Reading frame       3 time  300.000   Reading frame       4 time  400.000   Reading frame       5 time  500.000   Reading frame       6 time  600.000   Reading frame       7 time  700.000   Reading frame       8 time  800.000   Reading frame       9 time  900.000   Reading frame      10 time 1000.000   Reading frame      11 time 1100.000   Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000   Reading frame      30 time 3000.000   Reading frame      40 time 4000.000   Reading frame      50 time 5000.000   Reading frame      60 time 6000.000   Reading frame      70 time 7000.000   Reading frame      80 time 8000.000   Reading frame      90 time 9000.000   Reading frame     100 time 10000.000   Reading frame     110 time 11000.000   Reading frame     120 time 12000.000   Reading frame     130 time 13000.000   Reading frame     140 time 14000.000   Reading frame     150 time 15000.000   Reading frame     160 time 16000.000   Reading frame     170 time 17000.000   Reading frame     180 time 18000.000   Reading frame     190 time 19000.000   Reading frame     200 time 20000.000   Reading frame     300 time 30000.000   Reading frame     400 time 40000.000   Reading frame     500 time 50000.000   Reading frame     600 time 60000.000   Reading frame     700 time 70000.000   Reading frame     800 time 80000.000   Reading frame     900 time 90000.000   Reading frame    1000 time 100000.000   Last frame       1000 time 100000.000   
+
+GROMACS reminds you: "This work contains many things which are new and interesting. Unfortunately, everything that is new is not interesting, and everything which is interesting, is not new." (Lev Landau)
+
+                       :-) GROMACS - gmx rms, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx rms, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/296K_7_50M
+Command line:
+  gmx rms -s md_0_1.tpr -f md_0_1_fit-rot_trans.xtc -o rmsd.xvg -tu ns
+
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Select group for least squares fit
+Group     0 (         System) has 131577 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124979 elements
+Group    12 (          Water) has 124890 elements
+Group    13 (            SOL) has 124890 elements
+Group    14 (      non-Water) has  6687 elements
+Group    15 (            Ion) has    89 elements
+Group    16 (             NA) has    41 elements
+Group    17 (             CL) has    48 elements
+Group    18 ( Water_and_ions) has 124979 elements
+Select a group: Select group for RMSD calculation
+Group     0 (         System) has 131577 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124979 elements
+Group    12 (          Water) has 124890 elements
+Group    13 (            SOL) has 124890 elements
+Group    14 (      non-Water) has  6687 elements
+Group    15 (            Ion) has    89 elements
+Group    16 (             NA) has    41 elements
+Group    17 (             CL) has    48 elements
+Group    18 ( Water_and_ions) has 124979 elements
+Select a group: Reading frame       0 time    0.000   
+WARNING: topology has 131577 atoms, whereas trajectory has 6598
+Reading frame       1 time    0.100   Reading frame       2 time    0.200   Reading frame       3 time    0.300   Reading frame       4 time    0.400   Reading frame       5 time    0.500   Reading frame       6 time    0.600   Reading frame       7 time    0.700   Reading frame       8 time    0.800   Reading frame       9 time    0.900   Reading frame      10 time    1.000   Reading frame      11 time    1.100   Reading frame      12 time    1.200   Reading frame      13 time    1.300   Reading frame      14 time    1.400   Reading frame      15 time    1.500   Reading frame      16 time    1.600   Reading frame      17 time    1.700   Reading frame      18 time    1.800   Reading frame      19 time    1.900   Reading frame      20 time    2.000   Reading frame      30 time    3.000   Reading frame      40 time    4.000   Reading frame      50 time    5.000   Reading frame      60 time    6.000   Reading frame      70 time    7.000   Reading frame      80 time    8.000   Reading frame      90 time    9.000   Reading frame     100 time   10.000   Reading frame     110 time   11.000   Reading frame     120 time   12.000   Reading frame     130 time   13.000   Reading frame     140 time   14.000   Reading frame     150 time   15.000   Reading frame     160 time   16.000   Reading frame     170 time   17.000   Reading frame     180 time   18.000   Reading frame     190 time   19.000   Reading frame     200 time   20.000   Reading frame     300 time   30.000   Reading frame     400 time   40.000   Reading frame     500 time   50.000   Reading frame     600 time   60.000   Reading frame     700 time   70.000   Reading frame     800 time   80.000   Reading frame     900 time   90.000   Reading frame    1000 time  100.000   Last frame       1000 time  100.000   
+
+GROMACS reminds you: "Teaching quantum computing is like teaching computer science at Hogwarts." (Thomas Sterling, ISC2018 keynote)
+
+                       :-) GROMACS - gmx rmsf, 2019.3 (-:
+
+                            GROMACS is written by:
+     Emile Apol      Rossen Apostolov      Paul Bauer     Herman J.C. Berendsen
+    Par Bjelkmar      Christian Blau   Viacheslav Bolnykh     Kevin Boyd    
+ Aldert van Buuren   Rudi van Drunen     Anton Feenstra       Alan Gray     
+  Gerrit Groenhof     Anca Hamuraru    Vincent Hindriksen  M. Eric Irrgang  
+  Aleksei Iupinov   Christoph Junghans     Joe Jordan     Dimitrios Karkoulis
+    Peter Kasson        Jiri Kraus      Carsten Kutzner      Per Larsson    
+  Justin A. Lemkul    Viveca Lindahl    Magnus Lundborg     Erik Marklund   
+    Pascal Merz     Pieter Meulenhoff    Teemu Murtola       Szilard Pall   
+    Sander Pronk      Roland Schulz      Michael Shirts    Alexey Shvetsov  
+   Alfons Sijbers     Peter Tieleman      Jon Vincent      Teemu Virolainen 
+ Christian Wennberg    Maarten Wolf   
+                           and the project leaders:
+        Mark Abraham, Berk Hess, Erik Lindahl, and David van der Spoel
+
+Copyright (c) 1991-2000, University of Groningen, The Netherlands.
+Copyright (c) 2001-2018, The GROMACS development team at
+Uppsala University, Stockholm University and
+the Royal Institute of Technology, Sweden.
+check out http://www.gromacs.org for more information.
+
+GROMACS is free software; you can redistribute it and/or modify it
+under the terms of the GNU Lesser General Public License
+as published by the Free Software Foundation; either version 2.1
+of the License, or (at your option) any later version.
+
+GROMACS:      gmx rmsf, version 2019.3
+Executable:   /shared/ucl/apps/gromacs/2019.3/intel-2018/bin/gmx
+Data prefix:  /shared/ucl/apps/gromacs/2019.3/intel-2018
+Working dir:  /lustre/scratch/ucbeywa/20runs230422/protonation_pH7/Replicas/Loop1_r1/296K_7_50M
+Command line:
+  gmx rmsf -s md_0_1.tpr -f md_0_1_fit-rot_trans.xtc -o rmsf.xvg -oq bfac.pdb -res
+
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Reading file md_0_1.tpr, VERSION 2019.3 (single precision)
+Select group(s) for root mean square calculation
+Group     0 (         System) has 131577 elements
+Group     1 (        Protein) has  6598 elements
+Group     2 (      Protein-H) has  3336 elements
+Group     3 (        C-alpha) has   442 elements
+Group     4 (       Backbone) has  1326 elements
+Group     5 (      MainChain) has  1770 elements
+Group     6 (   MainChain+Cb) has  2179 elements
+Group     7 (    MainChain+H) has  2192 elements
+Group     8 (      SideChain) has  4406 elements
+Group     9 (    SideChain-H) has  1566 elements
+Group    10 (    Prot-Masses) has  6598 elements
+Group    11 (    non-Protein) has 124979 elements
+Group    12 (          Water) has 124890 elements
+Group    13 (            SOL) has 124890 elements
+Group    14 (      non-Water) has  6687 elements
+Group    15 (            Ion) has    89 elements
+Group    16 (             NA) has    41 elements
+Group    17 (             CL) has    48 elements
+Group    18 ( Water_and_ions) has 124979 elements
+Select a group: Reading frame       0 time    0.000   Reading frame       1 time  100.000   Reading frame       2 time  200.000   Reading frame       3 time  300.000   Reading frame       4 time  400.000   Reading frame       5 time  500.000   Reading frame       6 time  600.000   Reading frame       7 time  700.000   Reading frame       8 time  800.000   Reading frame       9 time  900.000   Reading frame      10 time 1000.000   Reading frame      11 time 1100.000   Reading frame      12 time 1200.000   Reading frame      13 time 1300.000   Reading frame      14 time 1400.000   Reading frame      15 time 1500.000   Reading frame      16 time 1600.000   Reading frame      17 time 1700.000   Reading frame      18 time 1800.000   Reading frame      19 time 1900.000   Reading frame      20 time 2000.000   Reading frame      30 time 3000.000   Reading frame      40 time 4000.000   Reading frame      50 time 5000.000   Reading frame      60 time 6000.000   Reading frame      70 time 7000.000   Reading frame      80 time 8000.000   Reading frame      90 time 9000.000   Reading frame     100 time 10000.000   Reading frame     110 time 11000.000   Reading frame     120 time 12000.000   Reading frame     130 time 13000.000   Reading frame     140 time 14000.000   Reading frame     150 time 15000.000   Reading frame     160 time 16000.000   Reading frame     170 time 17000.000   Reading frame     180 time 18000.000   Reading frame     190 time 19000.000   Reading frame     200 time 20000.000   Reading frame     300 time 30000.000   Reading frame     400 time 40000.000   Reading frame     500 time 50000.000   Reading frame     600 time 60000.000   Reading frame     700 time 70000.000   Reading frame     800 time 80000.000   Reading frame     900 time 90000.000   Reading frame    1000 time 100000.000   Last frame       1000 time 100000.000   
+
+GROMACS reminds you: "If you want to destroy my sweater, hold this thread as I walk away." (Weezer)
+
